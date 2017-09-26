@@ -60,7 +60,7 @@
     
     self.LQPhotoPicker_superView = _scrollView;
     
-    self.LQPhotoPicker_imgMaxCount = 10;
+    self.LQPhotoPicker_imgMaxCount = 1;
     
     [self LQPhotoPicker_initPickerView];
     

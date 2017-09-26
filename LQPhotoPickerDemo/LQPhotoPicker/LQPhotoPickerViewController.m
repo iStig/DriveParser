@@ -22,7 +22,6 @@
 }
 
 @property(nonatomic,strong) LQImgPickerActionSheet *imgPickerActionSheet;
-
 @property(nonatomic,strong) UICollectionView *pickerCollectionView;
 @property(nonatomic,assign) CGFloat collectionFrameY;
 
@@ -81,7 +80,7 @@ static NSString * const reuseIdentifier = @"LQPhotoViewCell";
     _pickerCollectionView.scrollEnabled = NO;
     
     if (_LQPhotoPicker_imgMaxCount <= 0) {
-        _LQPhotoPicker_imgMaxCount = 10;
+        _LQPhotoPicker_imgMaxCount = 1;
     }
     
     //添加图片提示
@@ -183,7 +182,7 @@ static NSString * const reuseIdentifier = @"LQPhotoViewCell";
     if (_LQPhotoPicker_smallImageArray.count == _LQPhotoPicker_imgMaxCount) {
         UIAlertView*alert = [[UIAlertView alloc]initWithTitle:@"提示"
                              
-                                                      message:@"选择图片数量已达上限"
+                                                      message:@"只需要一张驾照正面证件"
                              
                                                      delegate:nil
                              

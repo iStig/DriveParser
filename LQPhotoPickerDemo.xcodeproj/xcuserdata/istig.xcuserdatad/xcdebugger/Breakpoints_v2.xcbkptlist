@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-            timestampString = "528109231.528103"
+            timestampString = "528110453.788606"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "304"
-            endingLineNumber = "304"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
             landmarkName = "-LQPhotoPicker_getALAssetArray"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,77 +26,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-            timestampString = "528109231.528187"
+            timestampString = "528110453.789047"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
             landmarkName = "-LQPhotoPicker_getBigImageArray"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-            timestampString = "528109231.528251"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "324"
-            endingLineNumber = "324"
-            landmarkName = "-LQPhotoPicker_getSmallImageArray"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-            timestampString = "528109231.528311"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "328"
-            endingLineNumber = "328"
-            landmarkName = "-LQPhotoPicker_getSmallDataImageArray"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[LQPhotoPickerViewController LQPhotoPicker_getSmallDataImageArray]"
-                  moduleName = "LQPhotoPickerDemo"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/istig/Downloads/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/LQPhotoPickerDemo-master/LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-                  timestampString = "528108315.406051"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "328"
-                  endingLineNumber = "328"
-                  offsetFromSymbolStart = "152">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[LQPhotoPickerViewController LQPhotoPicker_getSmallDataImageArray]"
-                  moduleName = "LQPhotoPickerDemo"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/istig/Downloads/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0/LQPhotoPickerDemo-master/LQPhotoPickerDemo/LQPhotoPicker/LQPhotoPickerViewController.m"
-                  timestampString = "528108315.407457"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "328"
-                  endingLineNumber = "328"
-                  offsetFromSymbolStart = "172">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
